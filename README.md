@@ -1,5 +1,5 @@
 # onie-http
-Websever to redirect ONIE HTTPS requests using the HTTP Header information.
+Websever to redirect ONIE HTTP's requests using the HTTP Header information.
 
 To run:
 
